@@ -1,0 +1,5 @@
+name: SimpleDynamicMotd
+description: SimpleDynamicMotd
+main: me.jdon.simple.dyn.motd.Simpdynmotd
+author: jdon
+version: 1.0
